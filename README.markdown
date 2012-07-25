@@ -21,6 +21,8 @@ Requires:
       $('#element').scrollbarAnchor();
     </script>
 
+...where '#element' is the id of the element you wish to anchor to the scrollbar.
+
 ## Some options
 
 There are a few options you can pass when you instantiate the Scrollbar Anchor plugin:
